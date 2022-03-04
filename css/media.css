@@ -1,0 +1,136 @@
+@media(max-width: 992px){
+    .big_shapeOne img {
+        display: none;
+    }
+    .class_content p {
+        padding: 0px !important;
+        text-align: center;
+    }
+    .shape {
+        left: 10%;
+    }
+    .shape img {
+        width: 63% !important;
+    }
+    .status_content h1 {
+        padding-top: 0;
+    }
+    
+    .status_content {
+        height: 217px !important;
+        width: 100% !important;
+    }
+    .status_content p {
+        padding: 0px !important;
+    }
+    .status_content h1 {
+        
+padding-top: 12px !important;
+    }
+    .pice_content p {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+    }
+    .pice_content h1 {
+        font-size: 20px;
+    }
+    .taineer p {
+        font-size: 18px !important;
+    }
+    .taineer h2 {
+        font-size: 32px !important;
+    }
+    .update p {
+        font-size: 16px !important;
+    }
+    
+    .experience_content {
+        margin-left: 30px;
+    }
+    .experience_content p {
+        padding-right: 116px !important;
+        }
+}
+@media(max-width:992px) and (min-width:769px){
+    .update form button {
+        width: 76px !important;
+        font-size: 14px !important;
+    }
+}
+@media(max-width:768px){
+    .shape {
+        left: 26%;
+    }
+    .experience_content h1 {
+        font-size: 40px;
+    }
+    .img_part img {
+        width: 100%;
+    }
+    .status_content h1 {
+        padding-top: 70px !important;
+    }
+    .status_content {
+        height: 322px !important;
+        width: 336px !important;
+    }
+    
+}
+@media(max-width: 576px)and(min-width : 426px){
+    .shape img {
+        display: none;
+    }
+    
+    .image_shape {
+        width: 50%;
+    }
+    .image_shape {
+        left: 45% !important;
+        top: 45% !important;
+    }
+    .status_content {
+        height: 100% !important;
+        width: 45% !important;
+        padding: 0px 10px;
+    }
+    .status_content h1 {
+        padding-top: 5px !important;
+    }
+}
+@media(max-width: 425px) and (min-width:376px){
+    
+    .image_shape {
+        left: 43% !important;
+    }
+    .status_content {
+        height: 100% !important;
+        width: 74% !important;
+    }
+    .status_content h1 {
+        padding-top: 58px !important;
+    }
+    
+    
+    
+}
+@media (max-width: 375px){
+    .status_content {
+        width: 90% !important;
+    }
+    .experience_content h1 {
+        font-size: 35px !important;
+    }
+}
+@media (max-width: 325px){
+    .status_content {
+        
+    width: 85% !important;
+    height: 100% !important;
+    }
+    .status_content h1 {
+        padding-top: 12px !important;
+    }
+}
